@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="handbag" size="550.000000 879.000000" />
+    <ImageTarget name="train" size="732.000000 803.000000" />
+    <ImageTarget name="boy" size="569.000000 950.000000" />
+    <ImageTarget name="girl" size="620.000000 973.000000" />
+  </Tracking>
+</QCARConfig>

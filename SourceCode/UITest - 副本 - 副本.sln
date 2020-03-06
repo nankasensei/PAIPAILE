@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EF8EA048-0FCC-C5BE-D40E-F5D30263599C}") = "UITest - 副本 - 副本", "Assembly-CSharp.csproj", "{612C7E36-C48D-BEA5-B052-42787CB9936F}"
+EndProject
+Project("{EF8EA048-0FCC-C5BE-D40E-F5D30263599C}") = "UITest - 副本 - 副本", "Assembly-CSharp-Editor.csproj", "{FDC69D60-9C3E-C3CC-F05D-980710C07A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612C7E36-C48D-BEA5-B052-42787CB9936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612C7E36-C48D-BEA5-B052-42787CB9936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612C7E36-C48D-BEA5-B052-42787CB9936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612C7E36-C48D-BEA5-B052-42787CB9936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC69D60-9C3E-C3CC-F05D-980710C07A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC69D60-9C3E-C3CC-F05D-980710C07A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC69D60-9C3E-C3CC-F05D-980710C07A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC69D60-9C3E-C3CC-F05D-980710C07A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
