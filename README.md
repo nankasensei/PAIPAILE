@@ -1,7 +1,9 @@
 # PAIPAILE
  子供向けの英語学習アプリ『PAIPAILE』
  
- 実行動画：https://youtu.be/bQ--UdusrMk
+ 実行動画:
+
+[![Alt text](https://img.youtube.com/vi/bQ--UdusrMk/0.jpg)](https://www.youtube.com/watch?v=bQ--UdusrMk)
  
 学部二年生の時初めてUnityで作った比較的に完成度の高いアプリです。カメラでイラストと単語のあるカードを映したら単語と対応のバーチャルコンテンツが現れます。ただし、このアプリ特長はカード枚数及び組み合わせによって現れるモデルや動画も変わります。
 
